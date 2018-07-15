@@ -1,0 +1,8 @@
+{
+  "name": "myangular",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@angular/cli": "^6.0.8"
+  }
+}
